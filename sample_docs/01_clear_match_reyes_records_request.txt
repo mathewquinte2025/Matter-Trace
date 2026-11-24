@@ -1,0 +1,10 @@
+RECORDS REQUEST - ACKNOWLEDGEMENT
+
+Patient: Daniel Reyes
+Date of Birth: 03/14/1985
+Claim reference: CF-88213-A
+
+Gulf Coast Medical Center confirms receipt of your request for records related to the
+emergency visit on 06/02/2025. Records will be released within 15 business days.
+
+SYNTHETIC TEST DOCUMENT - NOT A REAL RECORD
